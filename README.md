@@ -64,7 +64,7 @@ d. [Yandex](http://www.statmt.org/wmt18/translation-task.html) provided for WMT 
 ## License
 
 No claims of intellectual property are made on the work of preparation of the corpus.
-See the [OPUS](http://opus.nlpl.eu/News-Commentary11.php) and/or [CASMACAT](http://www.casmacat.eu/corpus/news-commentary.html) for details.
+See the [OPUS](http://opus.nlpl.eu/News-Commentary-v11.php) and/or [CASMACAT](http://www.casmacat.eu/corpus/news-commentary.html) for details.
 
 ## Acknowledgments
 
