@@ -47,7 +47,7 @@ Scoreboard (BLEU-cased)
 
 Data used for above systems are as follows:
 
-(a) Global Voices parallel data retrieved from [OPUS](http://opus.nlpl.eu/GlobalVoices.php) (v2015; included in this repository)
+(a) Global Voices parallel data retrieved from [OPUS](http://opus.nlpl.eu/GlobalVoices-v2015.php) (v2015; included in this repository)
 
 (b) [ASPEC](http://lotus.kuee.kyoto-u.ac.jp/ASPEC/): Asian Scientific Paper Excerpt Corpus (out-of-domain Japanese--English parallel data)
 
