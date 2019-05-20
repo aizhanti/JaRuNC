@@ -47,13 +47,13 @@ Scoreboard (BLEU-cased)
 
 Data used for above systems are as follows:
 
-(a). Global Voices parallel data retrieved from [OPUS](http://opus.nlpl.eu/GlobalVoices.php) (included in this repository)
+(a) Global Voices parallel data retrieved from [OPUS](http://opus.nlpl.eu/GlobalVoices.php) (v2015; included in this repository)
 
-(b). [ASPEC](http://lotus.kuee.kyoto-u.ac.jp/ASPEC/): Asian Scientific Paper Excerpt Corpus (out-of-domain Japanese--English parallel data)
+(b) [ASPEC](http://lotus.kuee.kyoto-u.ac.jp/ASPEC/): Asian Scientific Paper Excerpt Corpus (out-of-domain Japanese--English parallel data)
 
-(c). [UN](http://www.statmt.org/wmt18/translation-task.html) provided for WMT 18 (out-of-domain Russian--English parallel data)
+(c) [UN](http://www.statmt.org/wmt18/translation-task.html) provided for WMT 18 (out-of-domain Russian--English parallel data)
 
-(d). [Yandex](http://www.statmt.org/wmt18/translation-task.html) provided for WMT 18 (out-of-domain Russian--English parallel data)
+(d) [Yandex](http://www.statmt.org/wmt18/translation-task.html) provided for WMT 18 (out-of-domain Russian--English parallel data)
 
 ## References
 
