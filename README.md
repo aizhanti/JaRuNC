@@ -57,7 +57,7 @@ Data used for above systems are as follows:
 
 ## References
 
-* Aizhan Imankulova, Raj Dabre, Atsushi Fujita, and Kenji Imamura. Exploiting Out-of-Domain Parallel Data through Multilingual Transfer Learning for Low-Resource Neural Machine Translation. In Proceedings of the 17th Machine Translation Summit (MT Summit), Aug., 2019. (to appear)
+* Aizhan Imankulova, Raj Dabre, Atsushi Fujita, and Kenji Imamura. Exploiting Out-of-Domain Parallel Data through Multilingual Transfer Learning for Low-Resource Neural Machine Translation. In Proceedings of the 17th Machine Translation Summit (MT Summit), Aug., 2019. (to appear). [arXiv version](https://arxiv.org/abs/1907.03060)
 
 ## Precautions
 
